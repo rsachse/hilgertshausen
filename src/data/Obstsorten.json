@@ -1,0 +1,809 @@
+[
+  {
+    "Art": "Apfel",
+    "id": 1,
+    "Sorte": "Korbiniansapfel",
+    "Pflueckreife": "Ende Oktober",
+    "Genussreife": null,
+    "Verwendung": "Tafelobst, Frischobst, Mus, Kompott, Einkochen, Kuchenobst, Backobst",
+    "Geschmack": "ausgewogen zwischen süß und sauer",
+    "Lagerfaehigkeit": "bis in den Frühling hinein lagerfähig",
+    "Allergiker": "",
+    "urls": [
+      "https://de.wikipedia.org/wiki/Korbiniansapfel",
+      "https://www.pflanzmich.de/search/?queryInput=Korbiniansapfel"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 2,
+    "Sorte": "Jacob Lebel",
+    "Pflueckreife": "Mitte September bis Anfang Oktober. Sollten aber zum Frischverzehr möglichst spät geerntet werden",
+    "Genussreife": null,
+    "Verwendung": "Frischverzehr, Weiterverarbeitung",
+    "Geschmack": "saftig, aber mürbe und ohne Würze",
+    "Lagerfaehigkeit": "Ohne geeignete Lagerung halten sich die Äpfel nur bis November. Mit Kühlung bis Januar",
+    "Allergiker": "",
+    "urls": [
+      "https://www.pflanzmich.de/produkt/33650/apfel-jacob-lebel.html",
+      "https://de.wikipedia.org/wiki/Jakob_Lebel"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 3,
+    "Sorte": "Prinz Albrecht",
+    "Pflueckreife": "Ende September",
+    "Genussreife": "Oktober",
+    "Verwendung": "Frischverzehr, Kuchenbelag, Marmelade",
+    "Geschmack": "süßsäuerlich und sehr saftig",
+    "Lagerfaehigkeit": "bis Dezember / Januar",
+    "Allergiker": "Gut geeignet",
+    "urls": [
+      "https://www.pflanzmich.de/produkt/36417/apfel-prinz-albrecht-von-preussen.html",
+      "https://de.wikipedia.org/wiki/Prinz_Albrecht_von_Preu%C3%9Fen"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 4,
+    "Sorte": "Danzinger Kantapfel",
+    "Pflueckreife": "Ende September",
+    "Genussreife": null,
+    "Verwendung": "Tafelapfel, zum backen und Mosten",
+    "Geschmack": "süßsäuerlich bis leicht würzig",
+    "Lagerfaehigkeit": "bis Januar ist der Apfel verwertbar",
+    "Allergiker": "",
+    "urls": [
+      "https://de.wikipedia.org/wiki/Danziger_Kantapfel",
+      "https://www.pflanzmich.de/produkt/35382/apfel-danziger-kantapfel.html"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 5,
+    "Sorte": "Rheinischer Winterrambur",
+    "Pflueckreife": "Mitte Oktober",
+    "Genussreife": "Dezember",
+    "Verwendung": "Frischverzehr, Kuchenbelag, Marmelade",
+    "Geschmack": "süßlich, schwach gewürzt, ist säurearm und reich an Vitamin Citamin C",
+    "Lagerfaehigkeit": "bis März, bei geeigneter Lagerung bis Mai",
+    "Allergiker": "",
+    "urls": [
+      "https://www.pflanzmich.de/produkt/11370/apfel-rheinischer-winterrambur.html",
+      "https://de.wikipedia.org/wiki/Rheinischer_Winterrambur"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 6,
+    "Sorte": "Kaiser Wilhelm",
+    "Pflueckreife": "Ende September",
+    "Genussreife": "Ende Oktober",
+    "Verwendung": "Frischverzehr, Kuchenbelag",
+    "Geschmack": "wohlschmeckendes, himbeerartiges Aroma",
+    "Lagerfaehigkeit": "bis April",
+    "Allergiker": "",
+    "urls": [
+      "https://www.pflanzmich.de/produkt/35449/apfel-kaiser-wilhelm.html",
+      "https://de.wikipedia.org/wiki/Kaiser_Wilhelm_(Apfel)"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 7,
+    "Sorte": "Goldparmäne",
+    "Pflueckreife": "Ende September Anfang Oktober",
+    "Genussreife": "von Oktober bis Januar",
+    "Verwendung": "Tafelapfel, Apfemus, zum backen und mosten",
+    "Geschmack": "nussartiges Aroma und relativ säurearm",
+    "Lagerfaehigkeit": "Januar bis März",
+    "Allergiker": "Gut geeignet",
+    "urls": [
+      "https://www.pflanzmich.de/produkt/11120/apfel-goldparmaene.html",
+      "https://de.wikipedia.org/wiki/Goldparm%C3%A4ne"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 8,
+    "Sorte": "Maunzenapfel",
+    "Pflueckreife": "Oktober",
+    "Genussreife": null,
+    "Verwendung": "Mostapfel und auch als Back- und Kochapfel",
+    "Geschmack": "direkt vom Baum bisweilen ungenießbar",
+    "Lagerfaehigkeit": "bis Februar",
+    "Allergiker": "Bedingt geeignet",
+    "urls": [
+      "https://de.wikipedia.org/wiki/Maunzen",
+      "https://www.pflanzmich.de/produkt/11290/apfel-maunzenapfel.html"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 9,
+    "Sorte": "Topaz",
+    "Pflueckreife": "September",
+    "Genussreife": "November",
+    "Verwendung": "Frischverzehr,  Saft- und Apfelmusherstellung",
+    "Geschmack": "süßsäuerlich, saftig aromatisch",
+    "Lagerfaehigkeit": "bis zum März",
+    "Allergiker": "",
+    "urls": ["https://www.pflanzmich.de/produkt/13398/apfel-topaz.html"]
+  },
+  {
+    "Art": "Apfel",
+    "id": 10,
+    "Sorte": "Fromms Goldrenette",
+    "Pflueckreife": "Mitte Oktober",
+    "Genussreife": "Ende November",
+    "Verwendung": "sehr guter Tafel- und Wirtschaftsapfel",
+    "Geschmack": "süßsäuerlich, hoher Vitamin C Gehalt, edles Aroma",
+    "Lagerfaehigkeit": "Lagerfähig bis Februar. Sollten am besten in Folienbeuteln gelagert werden",
+    "Allergiker": "",
+    "urls": ["https://www.pflanzmich.de/produkt/37669/apfel-fromms-goldrenette.html"]
+  },
+  {
+    "Art": "Apfel",
+    "id": 11,
+    "Sorte": "Wiltshire",
+    "Pflueckreife": "Oktober",
+    "Genussreife": "ab November",
+    "Verwendung": "Tafel- und Mostapfel",
+    "Geschmack": "süßsäuerlich",
+    "Lagerfaehigkeit": "direktverzehr",
+    "Allergiker": "Bedingt geeignet",
+    "urls": [
+      "https://de.wikipedia.org/wiki/Sch%C3%B6ner_von_Wiltshire",
+      "https://www.pflanzmich.de/produkt/38206/apfel-schoener-von-wiltshire.html"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 12,
+    "Sorte": "Brettacher",
+    "Pflueckreife": "ab Oktober",
+    "Genussreife": "ab Dezember",
+    "Verwendung": "Backen oder Kochen, Frischverzehr, Kuchenbelag, Marmelade",
+    "Geschmack": "eher säuerlich",
+    "Lagerfaehigkeit": "Lagerapfel, in einem kühlen Raum bis Ende April",
+    "Allergiker": "",
+    "urls": [
+      "https://de.wikipedia.org/wiki/Brettacher",
+      "https://www.pflanzmich.de/produkt/13813/apfel-brettacher.html"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 13,
+    "Sorte": "Boskoop",
+    "Pflueckreife": "Oktober / November",
+    "Genussreife": "ab Dezember",
+    "Verwendung": "Apfelmus oder Apfelpfannkuchen sowie als Back- oder Bratapfel",
+    "Geschmack": "süßsäuerlich",
+    "Lagerfaehigkeit": "bis März",
+    "Allergiker": "",
+    "urls": [
+      "https://de.wikipedia.org/wiki/Sch%C3%B6ner_aus_Boskoop",
+      "https://www.pflanzmich.de/produkt/11000/apfel-boskoop.html"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 14,
+    "Sorte": "Rheinischer Bohnapfel",
+    "Pflueckreife": "Mitte Oktober bis Anfang November",
+    "Genussreife": "ab Januar",
+    "Verwendung": "Mostapfel",
+    "Geschmack": "säuerlich",
+    "Lagerfaehigkeit": "bis Juni",
+    "Allergiker": "",
+    "urls": [
+      "https://de.wikipedia.org/wiki/Bohnapfel",
+      "https://www.pflanzmich.de/search/?queryInput=Rheinischer+Bohnapfel"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 15,
+    "Sorte": "Jakob Fischer",
+    "Pflueckreife": "September",
+    "Genussreife": null,
+    "Verwendung": "Tafelobst, als Haushaltsapfel zum Einmachen, Backen, Entsaften und für Kompott geeignet.",
+    "Geschmack": "süßsäuerlich",
+    "Lagerfaehigkeit": "vier Wochen haltbar",
+    "Allergiker": "",
+    "urls": [
+      "https://www.pflanzmich.de/produkt/35440/apfel-jakob-fischer.html",
+      "https://de.wikipedia.org/wiki/Jakob_Fischer_(Apfel)"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 16,
+    "Sorte": "Gelber Edelapfel",
+    "Pflueckreife": "September",
+    "Genussreife": "Oktober",
+    "Verwendung": "Kochen und Backen",
+    "Geschmack": "weinsäuerlich bis kräftig säuerlich. Viel Vitamin C",
+    "Lagerfaehigkeit": "bis Januar",
+    "Allergiker": "für Diabetiker geeignet",
+    "urls": [
+      "https://de.wikipedia.org/wiki/Gelber_Edelapfel",
+      "https://www.pflanzmich.de/produkt/35389/apfel-gelber-edelapfel.html"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 17,
+    "Sorte": "Roter Jonathan",
+    "Pflueckreife": "Ende September bis Anfang Oktober",
+    "Genussreife": null,
+    "Verwendung": "Weihnachtsapfel, Frischverzehr, Kuchenbelag, Marmelade",
+    "Geschmack": "säuerlich",
+    "Lagerfaehigkeit": "gut lagerfähig",
+    "Allergiker": "",
+    "urls": ["https://www.pflanzmich.de/produkt/11230/apfel-roter-jonathan.html"]
+  },
+  {
+    "Art": "Apfel",
+    "id": 18,
+    "Sorte": "Klarapfel",
+    "Pflueckreife": "Juli",
+    "Genussreife": null,
+    "Verwendung": "Apfelmus und Apfelstrudel, aber auch als Tafelapfel",
+    "Geschmack": "etwas säuerlich, nach der Ernte schnell mehlig und trocken",
+    "Lagerfaehigkeit": "nur etwa zwei bis drei Wochen lagerfähig",
+    "Allergiker": "",
+    "urls": [
+      "https://www.pflanzmich.de/produkt/11250/apfel-weisser-klarapfel.html",
+      "https://de.wikipedia.org/wiki/Wei%C3%9Fer_Klarapfel"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 19,
+    "Sorte": "Glockenapfel",
+    "Pflueckreife": "Oktober",
+    "Genussreife": "Dezember",
+    "Verwendung": "Frischverzehr, Kuchenbelag, Marmelade",
+    "Geschmack": "säuerlich-erfrischend",
+    "Lagerfaehigkeit": "im Kühllager bis Juni",
+    "Allergiker": "Gut geeignet",
+    "urls": [
+      "https://de.wikipedia.org/wiki/Glockenapfel",
+      "https://www.pflanzmich.de/produkt/11090/apfel-weisser-winterglockenapfel.html"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 20,
+    "Sorte": "Gewürzluiken",
+    "Pflueckreife": "Oktober",
+    "Genussreife": "ab November",
+    "Verwendung": "Tafel- und Wirtschaftsapfel, auch für Saftherstellung",
+    "Geschmack": "leicht würzig, säuerlich",
+    "Lagerfaehigkeit": "bis März",
+    "Allergiker": "",
+    "urls": [
+      "https://de.wikipedia.org/wiki/Gew%C3%BCrzluiken",
+      "https://www.pflanzmich.de/produkt/35435/apfel-gewuerzluiken.html"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 21,
+    "Sorte": "Landsberger Renette",
+    "Pflueckreife": "Oktober",
+    "Genussreife": "November",
+    "Verwendung": "Tafelapfel, Apfelmus, Most",
+    "Geschmack": "angenehmer „süßweiniger“ Geschmack",
+    "Lagerfaehigkeit": "bis Ende Januar",
+    "Allergiker": "",
+    "urls": [
+      "https://www.pflanzmich.de/produkt/11260/apfel-landsberger-renette.html",
+      "https://de.wikipedia.org/wiki/Landsberger_Renette"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 22,
+    "Sorte": "Wettringer Taubenapfel",
+    "Pflueckreife": "Oktober",
+    "Genussreife": "sofort",
+    "Verwendung": "Tafel- und Wirtschaftsapfel, als Brennobst begehrt",
+    "Geschmack": "süßsäuerlich",
+    "Lagerfaehigkeit": "bis Dezember",
+    "Allergiker": "",
+    "urls": ["https://www.pflanzmich.de/produkt/14656/apfel-wettringer-taubenapfel.html"]
+  },
+  {
+    "Art": "Apfel",
+    "id": 23,
+    "Sorte": "Florina",
+    "Pflueckreife": "Oktober",
+    "Genussreife": "November",
+    "Verwendung": "Lagerapfel, Frischverzehr, Backen",
+    "Geschmack": "saftig, eher süß",
+    "Lagerfaehigkeit": "bis Dezember/Januar",
+    "Allergiker": "",
+    "urls": [
+      "https://www.pflanzmich.de/produkt/39060/apfel-florina.html",
+      "https://de.wikipedia.org/wiki/Florina_(Apfel)"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 24,
+    "Sorte": "Schöner von Herrnhut",
+    "Pflueckreife": "Ende September - Oktober",
+    "Genussreife": null,
+    "Verwendung": "für Frischverzehr und Saft geeignet",
+    "Geschmack": "saftiger, süßsäuerlicher Tafelapfel",
+    "Lagerfaehigkeit": "bis Februar",
+    "Allergiker": "",
+    "urls": [
+      "https://www.baumschule-horstmann.de/shop/exec/product/68/6590/Herbstapfel-Schoener-von-Herrnhut.html",
+      "https://de.wikipedia.org/wiki/Sch%C3%B6ner_von_Herrnhut"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 25,
+    "Sorte": "Lohrer Rambur",
+    "Pflueckreife": "Oktober",
+    "Genussreife": "Novembeer",
+    "Verwendung": "guter Tafel- und Wirtschaftsapfel",
+    "Geschmack": "wenig gewürzt, saftig",
+    "Lagerfaehigkeit": "bis April",
+    "Allergiker": "",
+    "urls": [
+      "https://www.streuobst-mainfranken.de/cms/index.php/obstsorten/sortenvorstellung/apfel-sorten/134-lohrer-rambur",
+      "https://www.kv-gartenbauvereine-bamberg.de/de/obstparadies/apfelsorten/lohrer%20rambur.php"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 26,
+    "Sorte": "Zabergäurenette",
+    "Pflueckreife": "Oktober",
+    "Genussreife": null,
+    "Verwendung": "als Tafelapfel, zum Kochen, Backen oder Mosten",
+    "Geschmack": "feinfruchtig, mild säuerlich, mäßig süß, schwach aromatisch",
+    "Lagerfaehigkeit": "bis in den März",
+    "Allergiker": "",
+    "urls": ["https://de.wikipedia.org/wiki/Zaberg%C3%A4urenette"]
+  },
+  {
+    "Art": "Apfel",
+    "id": 27,
+    "Sorte": "Geheimrat Dr. Oldenburg",
+    "Pflueckreife": "September",
+    "Genussreife": "ab Oktober",
+    "Verwendung": "Tafelobst",
+    "Geschmack": "fein süßsäuerlich",
+    "Lagerfaehigkeit": "bis Dezember",
+    "Allergiker": "",
+    "urls": [
+      "https://de.wikipedia.org/wiki/Geheimrat_Dr._Oldenburg",
+      "https://www.baumschule-horstmann.de/shop/exec/product/68/6590/Herbstapfel-Schoener-von-Herrnhut.html"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 28,
+    "Sorte": "Berner Rosenapfel",
+    "Pflueckreife": "Ende September",
+    "Genussreife": null,
+    "Verwendung": "Tafelapfel und zur Saftbereitung",
+    "Geschmack": "süss-weinsäuerlich mit kräftigem, himbeerartigem Gewürz",
+    "Lagerfaehigkeit": "bis Januar",
+    "Allergiker": "",
+    "urls": [
+      "https://de.wikipedia.org/wiki/Berner_Rosenapfel",
+      "https://www.baumschule-horstmann.de/shop/exec/product/68/4780/Herbstapfel-Berner-Rosenapfel.html"
+    ]
+  },
+  {
+    "Art": "Apfel",
+    "id": 29,
+    "Sorte": "Holsteiner Cox",
+    "Pflueckreife": "Ende September",
+    "Genussreife": "ab Oktober",
+    "Verwendung": "Tafelapfel, Kuchen, Bratapfel",
+    "Geschmack": "säuerlich",
+    "Lagerfaehigkeit": "bis Dezember",
+    "Allergiker": "",
+    "urls": ["https://de.wikipedia.org/wiki/Holsteiner_Cox"]
+  },
+  {
+    "Art": "Apfel",
+    "id": 30,
+    "Sorte": "Gloster",
+    "Pflueckreife": "Oktober",
+    "Genussreife": "Dezember",
+    "Verwendung": "Tafelapfel, Müsli, Salat",
+    "Geschmack": "säuerlich",
+    "Lagerfaehigkeit": "bis Mai",
+    "Allergiker": "",
+    "urls": ["https://de.wikipedia.org/wiki/Gloster_(Apfel)"]
+  },
+  {
+    "Art": "Apfel",
+    "id": 99,
+    "Sorte": "Apfel unbestimmt",
+    "Pflueckreife": null,
+    "Genussreife": null,
+    "Verwendung": "",
+    "Geschmack": "",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": []
+  },
+  {
+    "Art": "Birne",
+    "id": 101,
+    "Sorte": "Gute Graue",
+    "Pflueckreife": "September",
+    "Genussreife": null,
+    "Verwendung": "Frischverzehr, Kuchenbelag, Marmelade, besonders zum Dörren geeignet",
+    "Geschmack": "sehr angenehm zimtartig gewürzt und duftet.",
+    "Lagerfaehigkeit": "nur zwei Wochen",
+    "Allergiker": "",
+    "urls": [
+      "https://de.wikipedia.org/wiki/Gute_Graue",
+      "https://www.pflanzmich.de/produkt/11490/birne-gute-graue.html"
+    ]
+  },
+  {
+    "Art": "Birne",
+    "id": 102,
+    "Sorte": "Neue Poiteau",
+    "Pflueckreife": null,
+    "Genussreife": null,
+    "Verwendung": "",
+    "Geschmack": "",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": ["https://www.pflanzmich.de/produkt/106466/birne-neue-poiteau.html"]
+  },
+  {
+    "Art": "Birne",
+    "id": 103,
+    "Sorte": "Blutbirne",
+    "Pflueckreife": "Mitte August bis Anfang September",
+    "Genussreife": null,
+    "Verwendung": "Frischverzehr und als Dörr- und Kompottobst",
+    "Geschmack": "angenehm süß, aber wenig aromatisch",
+    "Lagerfaehigkeit": "nicht lange lagerfähig",
+    "Allergiker": "",
+    "urls": [
+      "https://de.wikipedia.org/wiki/Blut-Birne",
+      "https://www.pflanzmich.de/produkt/43341/herbstbirne-blutbirne.html"
+    ]
+  },
+  {
+    "Art": "Birne",
+    "id": 104,
+    "Sorte": "Conference",
+    "Pflueckreife": "Mitte September",
+    "Genussreife": "ab Oktober",
+    "Verwendung": "",
+    "Geschmack": "fein, saftig, süß, mit angenehmen Gewürz",
+    "Lagerfaehigkeit": "im Normallager bis in den Dezember",
+    "Allergiker": "",
+    "urls": [
+      "https://www.pflanzmich.de/produkt/14991/birne-conferencebirne.html",
+      "https://de.wikipedia.org/wiki/Conference_(Birne)"
+    ]
+  },
+  {
+    "Art": "Birne",
+    "id": 105,
+    "Sorte": "Stuttgarter Gaishirtle",
+    "Pflueckreife": "Ende August",
+    "Genussreife": null,
+    "Verwendung": "Frischverzehr, Kuchenbelag, Marmelade. Die Hutzeln der Gaishirtle sind neben Dörrzwetschgen eine Hauptzutat für Hutzelbrot",
+    "Geschmack": "",
+    "Lagerfaehigkeit": "etwa acht Tage haltbar",
+    "Allergiker": "",
+    "urls": [
+      "https://www.pflanzmich.de/produkt/35519/birne-stuttgarter-geishirtle.html",
+      "https://de.wikipedia.org/wiki/Stuttgarter_Gaishirtle"
+    ]
+  },
+  {
+    "Art": "Birne",
+    "id": 106,
+    "Sorte": "köstliche von Charneux",
+    "Pflueckreife": "Ende September bis Mitte Oktober",
+    "Genussreife": null,
+    "Verwendung": "Tafelbirne",
+    "Geschmack": "süß und intensiv",
+    "Lagerfaehigkeit": "November",
+    "Allergiker": "",
+    "urls": [
+      "https://www.pflanzmich.de/produkt/60001/birne-koestliche-von-charneux.html",
+      "https://de.wikipedia.org/wiki/K%C3%B6stliche_aus_Charneux"
+    ]
+  },
+  {
+    "Art": "Birne",
+    "id": 107,
+    "Sorte": "Williams Christ",
+    "Pflueckreife": "August",
+    "Genussreife": null,
+    "Verwendung": "Frischverzehr, Kompott und zum Einmachen, Tafelobst, Likör",
+    "Geschmack": "saftig",
+    "Lagerfaehigkeit": "Nur eine Woche lagerbar",
+    "Allergiker": "",
+    "urls": [
+      "https://de.wikipedia.org/wiki/Williams_Christ",
+      "https://www.pflanzmich.de/produkt/11580/birne-williams-christbirne.html"
+    ]
+  },
+  {
+    "Art": "Birne",
+    "id": 108,
+    "Sorte": "Wildbirne",
+    "Pflueckreife": null,
+    "Genussreife": null,
+    "Verwendung": "",
+    "Geschmack": "",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": []
+  },
+  {
+    "Art": "Birne",
+    "id": 199,
+    "Sorte": "Birne unbestimmt",
+    "Pflueckreife": null,
+    "Genussreife": null,
+    "Verwendung": "",
+    "Geschmack": "",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": []
+  },
+  {
+    "Art": "Zwetschge",
+    "id": 201,
+    "Sorte": "Fränkische Hauszwetschge",
+    "Pflueckreife": "Mitte bis Ende September",
+    "Genussreife": null,
+    "Verwendung": "",
+    "Geschmack": "",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": [
+      "https://www.pflanzmich.de/produkt/90390/pflaume-hauszwetsche.html",
+      "https://de.wikipedia.org/wiki/Hauszwetschge"
+    ]
+  },
+  {
+    "Art": "Zwetschge",
+    "id": 202,
+    "Sorte": "Früh Zwetschge",
+    "Pflueckreife": null,
+    "Genussreife": null,
+    "Verwendung": "",
+    "Geschmack": "",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": []
+  },
+  {
+    "Art": "Zwetschge",
+    "id": 203,
+    "Sorte": "Schöneberger",
+    "Pflueckreife": "August - September",
+    "Genussreife": null,
+    "Verwendung": "",
+    "Geschmack": "sehr saftig und süß",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": ["https://www.pflanzmich.de/produkt/35612/pflaume-schoenberger-zwetsche.html"]
+  },
+  {
+    "Art": "Zwetschge",
+    "id": 204,
+    "Sorte": "Wangenheimer Frühzwetschge",
+    "Pflueckreife": "Ende August bis Anfang September.",
+    "Genussreife": null,
+    "Verwendung": "Frischverzehr, Kuchenbelag, Marmelade",
+    "Geschmack": "süß und saftig",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": ["https://www.pflanzmich.de/produkt/11920/pflaume-wangenheimer-fruehzwetschge.html"]
+  },
+  {
+    "Art": "Zwetschge",
+    "id": 205,
+    "Sorte": "Reneclode (Griach)",
+    "Pflueckreife": "Anfang August",
+    "Genussreife": null,
+    "Verwendung": "",
+    "Geschmack": "",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": []
+  },
+  {
+    "Art": "Zwetschge",
+    "id": 206,
+    "Sorte": "Mirabelle",
+    "Pflueckreife": null,
+    "Genussreife": null,
+    "Verwendung": "",
+    "Geschmack": "",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": []
+  },
+  {
+    "Art": "Zwetschge",
+    "id": 299,
+    "Sorte": "Zwetschge unbestimmt",
+    "Pflueckreife": null,
+    "Genussreife": null,
+    "Verwendung": "",
+    "Geschmack": "",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": []
+  },
+  {
+    "Art": "Kirsche",
+    "id": 301,
+    "Sorte": "Süßkirsche",
+    "Pflueckreife": null,
+    "Genussreife": null,
+    "Verwendung": "",
+    "Geschmack": "",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": []
+  },
+  {
+    "Art": "Kirsche",
+    "id": 302,
+    "Sorte": "Hedelfinger Riesenkirsche",
+    "Pflueckreife": "Mitte Ende Juli",
+    "Genussreife": null,
+    "Verwendung": "Frischverzehr, Konservierung",
+    "Geschmack": "süßsäuerlich mit würzigen Aroma",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": [
+      "https://de.wikipedia.org/wiki/Hedelfinger_Riesenkirsche",
+      "https://www.pflanzmich.de/produkt/11670/suesskirsche-hedelfinger-riesenkirsche.html"
+    ]
+  },
+  {
+    "Art": "Kirsche",
+    "id": 303,
+    "Sorte": "Regina",
+    "Pflueckreife": "Ab Ende Juli",
+    "Genussreife": null,
+    "Verwendung": "Genuss für alle Naschkatzen",
+    "Geschmack": "aromatisch und süßsäuerlich",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": [
+      "https://www.pflanzmich.de/produkt/37915/suesskirsche-regina.html",
+      "https://de.wikipedia.org/wiki/Regina_(Kirsche)"
+    ]
+  },
+  {
+    "Art": "Kirsche",
+    "id": 304,
+    "Sorte": "Süßkirsche Sunburst",
+    "Pflueckreife": "Juli",
+    "Genussreife": null,
+    "Verwendung": "Frischverzehr, Kuchenbelag, Marmelade",
+    "Geschmack": "süßsäuerlich",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": [
+      "https://www.pflanzmich.de/produkt/39260/suesskirsche-sunburst.html",
+      "https://de.wikipedia.org/wiki/Sunburst_(Kirsche)"
+    ]
+  },
+  {
+    "Art": "Kirsche",
+    "id": 399,
+    "Sorte": "Kirsche unbestimmt",
+    "Pflueckreife": null,
+    "Genussreife": null,
+    "Verwendung": "",
+    "Geschmack": "",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": []
+  },
+  {
+    "Art": "Nuss",
+    "id": 401,
+    "Sorte": "Walnuß",
+    "Pflueckreife": null,
+    "Genussreife": null,
+    "Verwendung": "",
+    "Geschmack": "",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": []
+  },
+  {
+    "Art": "Nuss",
+    "id": 402,
+    "Sorte": "Maroni",
+    "Pflueckreife": null,
+    "Genussreife": null,
+    "Verwendung": "",
+    "Geschmack": "",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": []
+  },
+  {
+    "Art": "Nuss",
+    "id": 499,
+    "Sorte": "unbekannte Nuss",
+    "Pflueckreife": null,
+    "Genussreife": null,
+    "Verwendung": "",
+    "Geschmack": "",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": []
+  },
+  {
+    "Art": "Mispel",
+    "id": 501,
+    "Sorte": "Echte  Mispel",
+    "Pflueckreife": "Ende Oktober bis Mitte November",
+    "Genussreife": null,
+    "Verwendung": "Nach dem ersten Frost",
+    "Geschmack": "leicht säuerlich und sehr aromatisch",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": ["https://www.mein-schoener-garten.de/pflanzen/obst/mispel-12491"]
+  },
+  {
+    "Art": "Quitte",
+    "id": 601,
+    "Sorte": "Apfel-Quitte",
+    "Pflueckreife": "Oktober",
+    "Genussreife": null,
+    "Verwendung": "Vor dem ersten Frost",
+    "Geschmack": "",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": []
+  },
+  {
+    "Art": "unbekannter Baum",
+    "id": 999,
+    "Sorte": "",
+    "Pflueckreife": null,
+    "Genussreife": null,
+    "Verwendung": "",
+    "Geschmack": "",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": []
+  },
+  {
+    "Art": "Tod",
+    "id": 1000,
+    "Sorte": "",
+    "Pflueckreife": null,
+    "Genussreife": null,
+    "Verwendung": "",
+    "Geschmack": "",
+    "Lagerfaehigkeit": "",
+    "Allergiker": "",
+    "urls": []
+  }
+]

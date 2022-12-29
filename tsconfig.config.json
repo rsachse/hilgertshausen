@@ -1,0 +1,35 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.node.json",
+  "exclude": ["node_modules"],
+  "include": [
+    "vite.config.*",
+    "vitest.config.*",
+    "env.d.ts",
+    "src/**/*.json",
+    "src/**/*.geojson",
+    "src/**/*.ts",
+    "src/**/*.vue",
+    ".eslintrc.js"
+  ],
+  "compilerOptions": {
+    "composite": true,
+    "types": ["node"],
+    "target": "esnext",
+    "module": "esnext",
+    "strict": true,
+    "jsx": "preserve",
+    "importHelpers": true,
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "lib": ["esnext", "dom", "dom.iterable", "scripthost"]
+  },
+}
